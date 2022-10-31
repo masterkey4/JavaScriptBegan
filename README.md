@@ -1,1 +1,1 @@
-# JavaScripBegan
+# JavaScriptBegan
